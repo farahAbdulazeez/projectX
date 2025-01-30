@@ -5,5 +5,9 @@ public class DemoTest1 {
 		
 		System.out.println("Helllo world");
 	}
+	
+	public void add(int a, int b) {
+		System.out.println(a + b);
+	}
 
 }
